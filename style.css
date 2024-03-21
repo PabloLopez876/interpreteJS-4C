@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(45deg, rgb(39, 11, 104), #435200);
+    justify-content: center;
+    align-items: center;
+    color: rgb(240, 36, 63); 
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(red, rgb(115, 128, 0), blue);
+}
+
+#dia{
+    color:  rgb(39, 11, 104);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#mes{
+    color: aquamarine;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
